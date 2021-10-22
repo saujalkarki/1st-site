@@ -1,0 +1,134 @@
+body{
+	text-align: center;
+	margin: 0px;
+	color: #40514E;
+}
+p{
+	font-size: 18px;
+}
+a{
+	color: #11999E;
+	margin: 10px 10px;
+	text-decoration: none;
+}
+a:hover{
+	background-color: #EAF6F6;
+}
+h1{
+	padding-top: 50px;
+	margin-top: 0;
+	margin: 0;
+	font-family: 'sacramento', cursive;
+	font-size: 5.625rem;
+	color: #66BFBF;
+	line-height: 2;
+}
+h2{
+    color: #66BFBF;
+    font-weight: normal;
+    text-align: center;
+    padding: 10px;
+}	
+h3{
+    color: #66BFBF;
+}
+hr{
+	width: 80px;
+	border-style: dotted;
+	border-bottom-style: none;
+	border-width: 10px;
+	border-color: #476072;
+	margin-top: 30px;
+}
+.p{
+	width: 30%;
+	margin: auto;
+	line-height: 2;
+}
+.ClassA{
+	font-size: 1.5em;
+	color: #66BFBF;
+}
+#imgA{
+    position: absolute;
+    right: 300px;
+    top: 50px;
+}
+#imgB{
+	position: absolute;
+	left: 300px;
+	bottom: 300px ;
+} 
+.pro{
+	text-decoration:none;
+}
+.divA{
+	background-color: #E4F9F5;
+	position: relative;
+	padding-top: 100px;
+	margin: 0px;
+}
+.divB{
+	padding: 100px 0;
+}
+.divC{
+	background-color: #66BFBF;
+	padding: 50px 0;
+}
+.Mylife{
+	width: 60%;
+	margin: 10px auto 10px auto;
+	text-align: left;
+	line-height: 2;
+}
+.programming{
+	width: 20%;
+	float: left;
+	margin-right: 20px;
+}
+.riding{
+	width: 20%;
+	float: right;
+	margin-left: 20px;
+}
+.fitness{
+	width: 20%;
+	float: left;
+	margin-right: 20px;
+}
+.button{
+	padding: 40px;
+}
+.btn {
+  background: #34d3d9;
+  background-image: -webkit-linear-gradient(top, #34d3d9, #117068);
+  background-image: -moz-linear-gradient(top, #34d3d9, #117068);
+  background-image: -ms-linear-gradient(top, #34d3d9, #117068);
+  background-image: -o-linear-gradient(top, #34d3d9, #117068);
+  background-image: linear-gradient(to bottom, #34d3d9, #117068);
+  -webkit-border-radius: 30;
+  -moz-border-radius: 30;
+  border-radius: 30px;
+  text-shadow: 1px 1px 3px #050001;
+  font-family: Arial;
+  color: #ffffff;
+  font-size: 22px;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+
+.btn:hover {
+  background: #0eb0cc;
+  background-image: -webkit-linear-gradient(top, #0eb0cc, #3cb9c2);
+  background-image: -moz-linear-gradient(top, #0eb0cc, #3cb9c2);
+  background-image: -ms-linear-gradient(top, #0eb0cc, #3cb9c2);
+  background-image: -o-linear-gradient(top, #0eb0cc, #3cb9c2);
+  background-image: linear-gradient(to bottom, #0eb0cc, #3cb9c2);
+  text-decoration: none;
+}
+.copyright{
+	padding-top: 30px;
+	color: black;
+}
